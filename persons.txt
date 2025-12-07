@@ -1,0 +1,5 @@
+Jan;Horký;1987;Lipova,241,Prague,18000
+Karel;Janoseč;1990;Růžová,456,Hulín,70764
+Zuzana;Lakomá;2000;Hnědá,789,Přerov,76572
+Hubert;Kral;1980;Růžová,456,Bulín,77777
+Zorka;Líbivá;1987;Bílá,001,Kačerov,88888
